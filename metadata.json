@@ -1,0 +1,6 @@
+{
+  "name": "AI Supplier Discovery Assistant",
+  "description": "B2B procurement assistant for searching, filtering, comparing suppliers, and analyzing trade-offs between price, MOQ, and lead time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
